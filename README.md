@@ -2,17 +2,9 @@
 
 Welcome to my Data Science Projects repository! This repository is a collection of my data science codes, projects, and experiments. Each project in this repository explores different areas of data science, from data analysis and visualization to machine learning and deep learning.
 
-### **Repository Structure**
-
-- **/datasets**: Contains the datasets used in various projects.
-- **/notebooks**: Jupyter notebooks for each project, detailing the code and methodologies used.
-- **/scripts**: Python scripts that can be run independently.
-- **/models**: Pre-trained models and outputs of different experiments.
-- **README.md**: Overview of the repository.
-
 ### **Projects Overview**
 
-1. **Boston Housing Data Set**: The Boston Housing Dataset is a derived from information collected by the U.S. Census Service concerning housing in the area of Boston MA.
+**Boston Housing Data Set**: The Boston Housing Dataset is a derived from information collected by the U.S. Census Service concerning housing in the area of Boston MA.
 
 ### **How to Use This Repository**
 
